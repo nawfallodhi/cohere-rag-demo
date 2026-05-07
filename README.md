@@ -1,0 +1,1 @@
+I built a RAG pipeline using Cohere's Embed v3 and Command R this week; essentially semantic search over a document corpus with grounded generation. 
